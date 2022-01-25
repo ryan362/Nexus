@@ -1,0 +1,14 @@
+h1 {
+	text-align: center;
+	margin-bottom: 10px;
+}
+header p {
+	text-align: center;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+hr {
+	height: 1px;
+	background-color: black;
+	border-color: black;
+}
